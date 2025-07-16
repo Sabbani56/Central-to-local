@@ -4,4 +4,7 @@ public class
       {
       system.out.println("red,pink,white")
         }
+    {
+      system.out.println("red,blue,green");
+    }
   }
